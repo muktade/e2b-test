@@ -1,4 +1,4 @@
-# live_player
+# e2b-test
 
 A new Flutter project.
 
